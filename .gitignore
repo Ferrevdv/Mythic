@@ -11,7 +11,6 @@ saved_images/
 mythic_server
 docker-compose.yml
 .ipynb_checkpoints/
-env/
 venv/
 ENV/
 mythic-cli
@@ -31,8 +30,6 @@ mythic_sync/
 postgres-docker/database/
 rabbitmq-docker/storage/
 C2_profiles/
-Payload_Types/
-InstalledServices/
 Docker_Templates/
 documentation-docker/content/
 documentation-docker/public/
